@@ -1,0 +1,2 @@
+The faucet allows registered users to receive one time reward. It is very easy just to register and receive funds. But right before deployment developers go crazy and add impossible requirement to withdraw function.
+Can you pass it and get all funds from the faucet?

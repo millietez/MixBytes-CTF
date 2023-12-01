@@ -1,0 +1,2 @@
+You've found an airdrop that uses merkle proofs to check if an address is eligible to withdraw some funds from the contract. 
+To clear this level you must withdraw all the funds from the airdrop contract!
